@@ -1,0 +1,1 @@
+var SubDomain = 'charles38'; var SiteID = '40F4CF62-1ECD-4E6A-8C66-11DD05EC239D'; var host = 'https://api.eraconnect.net';
